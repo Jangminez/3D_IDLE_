@@ -8,13 +8,16 @@
 ---
 ##  영상
 ### 아이템 구매 및 장착
-![ItemPurchase](https://github.com/user-attachments/assets/77e16faa-1627-480b-9e6a-7ed8041cbfa2)
+![3D_Idle_Item_purchase](https://github.com/user-attachments/assets/eb44e1b4-958a-4120-aa7b-9337c21e8245)
+
 
 ### 아이템 업그레이드
-![ItemUpgrade](https://github.com/user-attachments/assets/0785d0dd-d2eb-42b0-a172-7624af363ad2)
+![3D_Idle_Item_upgrade](https://github.com/user-attachments/assets/de209d92-7796-40e7-8507-6a314185135f)
+
 
 ### 전투
-![Stage](https://github.com/user-attachments/assets/9f7fe82d-4027-4c47-b841-96ac46cd4434)
+![3D_Idle_battle](https://github.com/user-attachments/assets/dff5d431-f866-4534-9857-5cb52b1c0994)
+
 
 
 ##  주요 기능
